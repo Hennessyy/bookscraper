@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Harry Potter",
+        "pages": 500,
+        "author": "JK Rowling",
+        "ISBN":  "9781234567897",
+        "genre": "Fantasy Fiction",
+        "rank": 1
+    },
+    {
+        "title": "The Book Thief",
+        "pages": 350,
+        "author": "Markus Z",
+        "ISBN":  "9781234567897",
+        "genre": "Literary Fiction",
+        "rank": 2
+    },
+    {
+        "title": "Looking for Alaska",
+        "pages": 450,
+        "author": "John Greene",
+        "ISBN":  "9781234567897",
+        "genre": "Adventure",
+        "rank": 3
+    },
+
+    {
+        "title": "A Feast for Crows",
+        "pages": 250,
+        "author": "George R",
+        "ISBN":  "9781234567897",
+        "genre": "Adventure",
+        "rank": 4
+    },
+    {
+        "title": "Uglies",
+        "pages": 800,
+        "author": "Scott West",
+        "ISBN":  "9781234567897",
+        "genre": "Horror",
+        "rank": 5
+    }
+]
